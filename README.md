@@ -8,6 +8,7 @@ Lunch: 11:30 am - 1:30 pm
 Dinner: 6:30 pm - 8:30 pm
 Above assumptions for high order intervals is important because this is when CK needs to operate most efficiently without any hiccups. In some scenarios, this might mean needing a higher number of cooks to account for higher count of orders. 
 3. No menu item is pre-cooked hence the duration noted is the actual duration to cook these items from scratch. 
+4. I noticed that time in orders dataset is in UTC. For the simplicity of this exercise, I will convert this time to PST and make computations. 
 
 # Questions for metrics & why they are important
 
