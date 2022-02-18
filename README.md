@@ -19,7 +19,7 @@ I've included why for each of these questions to give additional context on why 
 2. What is the average order count during a day broken out by every hour? 
 The why for above two: These are general business metrics and help identify general pulse of the business and seasonal trends if any.
 
-3.Which items sell most broken out by time of the day i.e lunch, breakfast and dinner (Note: both order count and revenue )? The why: If we assume the pareto rule is at play here, we can assume 80% of revenue comes from 20 % of menu items. We want to identify those items and ensure we are well prepared to deliver them in a timely manner. This also provides marketing opportunities like special discounts for repeat orders etc.
+3. Which items sell most broken out by time of the day i.e lunch, breakfast and dinner (Note: both order count and revenue )? The why: If we assume the pareto rule is at play here, we can assume 80% of revenue comes from 20 % of menu items. We want to identify those items and ensure we are well prepared to deliver them in a timely manner. This also provides marketing opportunities like special discounts for repeat orders etc.
 
 4. Which service provider is the source for most revenue (Note: revenue not order count)? The why: If we use the pareto rule of 80/20, 80 % of orders would come from a small set of delivery providers. I want to test that theory and if that holds up, we can provide preferential treatment to service provider(s) during peak hours and special events like superbowl etc. 
 
