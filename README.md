@@ -32,3 +32,7 @@ The why for above two: These are general business metrics and help identify gene
 
 7. Find the optimum number of parallel orders during peak hours i.e. breakfast, lunch and dinner. This optimum number is the number where we can ensure delivery of food items without the customer having to wait for extended durations. The why: This is an operational KPI and ensures we are operating within an acceptable SLA. Having a firm understanding of this KPI allows us to better prepare during expected peak order times and also during special events like superbowl etc. We can leverage this metric to provide accurate information on when the food item will be ready for delivery. 
 
+Notes from CD - 
+1. paid_per_unit is the amount that is eventually paid, while price_per_unit is the price originally set. Not cost vs revenue, but both are in the revenue category. 
+2. Revenue, operation excellence are both great areas to dive in. You might also want to look into the eater section too.
+3. It'd be useful to briefly discuss at the end about how you would want the system to be if it needs to deal with millions of orders.
